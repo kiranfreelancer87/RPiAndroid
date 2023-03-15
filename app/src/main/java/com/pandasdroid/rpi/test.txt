@@ -1,0 +1,257 @@
+Try to click on button
+
+Let me know you're getting notification or not
+
+Goto settings -> notifications and check if notirication is enable or not
+
+okay checking now
+
+ok
+
+notifications are on but I enabled a few other features
+so lets try again
+
+ok
+
+you want me to click t
+
+no just sent notification
+
+no notifications on watch
+
+now?
+
+send one more time please
+
+Done
+
+kept an eye on the watch but nothing happened
+
+now?notification center says no notifications still
+
+i have enabled every setting except the one that reads the nofication outloud when it is received
+
+Now all enabled?
+
+In app notification is receiving but notification isn't being created see the selected test that is send by notification payload
+
+I saw that text yes
+Notification?
+
+nothing//okay now try to minimize the app and check once
+
+app minimized?
+
+yes
+
+the watch just flashed...
+
+When got notification?
+
+no notification but I just closed the app again. try one more time
+
+ok
+Done
+
+nothing
+
+tRY once more please
+Done
+
+unfortunately nothing on this end still
+
+Yeah I see...Actually notification is coming but not showing
+
+oh weird
+
+can we check the permissions of the app to make sure it has permission to send the notification?
+It doesn't required permission for notification...
+Wait let me confirm with that if it really required permission
+
+okay
+
+have you got any?
+
+no but I just exited the app
+ lets try one more time
+
+ sent
+
+ still nothing. I checked the code while you ran it and saw it run
+
+It's weired...Notification is working on Emulator but not on real device
+
+what does the "resource failed to call close" mean?
+
+That code already removed
+
+ok.ayu
+
+
+Let me check another method for creating notification
+
+5 min
+
+okay
+
+Any notification?
+
+Please check once if other app is giving notification or not
+
+just closed app
+
+checking
+
+no notifications but lets try one more time
+Done
+
+no notifications
+
+wait you just said to check if other app is giving notification
+
+are there 2 apps? I only have one on the watch
+
+No only 1 app for watch...I mean if you have any other application on watch and that is giving notification or not
+
+And check once if your phone haas dnd activated...Is it sync with phone now?
+
+okay checking
+
+Settings > Security > Notification Access (Within the Notification access screen, make sure that Android Wear is checked.)
+
+But I think it shouldn't be the issue because our app is standalone wear os app
+
+dnd is not activated o the phone and I have it set so that every app can get through notifications
+
+Okay can you please test once with any other application if you're able to get it or not...
+
+
+
+
+yeah I have been getting email notifications on the phone the entire time
+
+On wear os?no not on the waatch
+
+I will try to set that up
+
+ok please check and update
+
+sent
+
+Send 3 time
+
+still no notifications
+
+let me see if I can get an email notification to come through
+
+ok
+
+I have checked Android official site same way we're using for notification here as well
+
+I am rebooting phone and watch to see if the notifications come through. I have gone through every step to turn them and while i am getting them on the phone they are not going to the watch
+
+Email notification also?
+
+yes. that is what I mainly trying to test
+ok
+
+got one on the watch!
+
+ok
+
+let me send now
+
+GOT IT
+
+LOL finally
+
+FINALLY!!!!...So we're done with notification now we'll setup this with button click give me 15 min let me setup the code....
+
+
+Pi is on? Pi is on
+
+
+can you please connect to pi from your pc
+
+yes. what is the best way to that?
+
+From TeamViewercan I have multiple session at the same time? I am using teamviewer right now with you on the PC
+
+
+oh sorry yeah...Need to disconnect...Let me connect there
+
+okay
+
+watch connected to wifi?
+
+Please check it's IP
+okay
+watch IP:192.168.99.55
+phone IP: 192.168.99.174
+do you need pi?
+
+no
+
+push button
+
+Try to push the button
+
+okay. while you were doing that I got a notification but I didnt press a button
+
+Yeah it was pending one because watch was offline
+
+got it. that worked.
+
+working now?
+
+yep!
+
+okay..I think app is getting killed by system if not is use for long time
+
+Just open it once when you start to use
+
+the RPi app or the json?
+
+Watch app
+
+okay. so if i started out just turning on the computer and watch, how would I make it work?
+
+
+No no need to connect with computer....When you start using the  notification just open app and minimize in wear os only
+
+okay. is the raspberry pi part of this equation anymore?
+
+No...Just need to run program on RPi incase you restart it
+
+Once it is runnning no need to do anything else
+
+great. So can you please show me how I can start running this tomorrow when I bring it all to a new location?
+
+Just copy RPi filder to another Pi
+
+in terminal run one command "pip install firebase_admin"
+
+then open that
+
+got it. can I go test that real quick?
+
+Yeah sure
+
+So what I want to do is close out everything anfd I want to try running that command and pressing the button
+
+Suppose you placed the RPi folder in Desktop/RPi
+
+open ternimal:
+cd Desktop
+cd RPi
+python3 RGB.py
+but right now RPi folder is not on desktop?
+It's already on Desktop...If you move to another Pi keep in same location so easy for you
+
+I see. Okay. Luckily I will be using the same Pi at the location tomorrow.
+So what I am going to do right now is close out Thonny and terminal and everything else on Pi
+and then I am going to open terminal and follow those directions
+
+Can you switch back to pi desktop to see if I do it all correctly and confir, it works?
+okay
+awesome thank you
